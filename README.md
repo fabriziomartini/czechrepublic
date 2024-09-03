@@ -5,7 +5,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 
 ## Table of Contents
 - [Prague Guide](#prague-guide)
-  - [Places to Get a Drink in Prague](#places-to-get-a-drink-in-prague)
+  - [Places to Get a Drink in Prague](/prague/%23%20Places%20to%20Eat%20in%20Prague.md)
   - [Places to Shop in Prague](#places-to-shop-in-prague)
   - [Sites to Visit in Prague](#sites-to-visit-in-prague)
   - [Day Trips/Additional Places](#day-tripsadditional-places)
