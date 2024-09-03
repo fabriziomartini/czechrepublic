@@ -1,19 +1,21 @@
 # Places to Get a Drink in Prague
-
+## Cocktails & Wine
+- **Alcron Bar Prague** - cocktail bar
+- **LFleurBar** - cocktail bar
+- **Mez Bar Prague** - cocktail bar
+- **Bonvivant's CTC** - cocktail bar
+- **Tretter’s Obecní dům** - cocktail bar
+- **Bar Pilotu** - cocktails (best Bloody Mary in the city)
+-  **Ellise** - cocktail bar 
 - **La Cave D’Adrien** - wine bar on a roundabout — this roundabout is my favorite area in Prague when the weather is nice. It looks/feels like France.
 - ~~**Kasarna Karlin** - outdoor area and great place to drink in the afternoon. Sometimes has events.~~
-- **Ellise** - cocktail bar 
-- **OSSEGG** - beer/brewery
 - **Burza #4** - outside bar
 - **Poco** - chill hip bar
 - **Ankali** - Berlin style club (dark and moody)
-- **Naplavka** - riverside with bars and bars on boats - go here for sunset or when the weather is nice
 - **Stalin** - area in Letna park that usually has things going on during Friday/Saturday nights
 - **Ferme**
 - **Cafe Kamzik**
 - **Miminoo** - place to drink/eat under Zizkov tower
-- **Beer Geek**
-- **Strahov Monastery Brewery** - beer
 - **Champagneria**
 - **Prosekarna Vinohradska**
 - **Winebar 0,75 [Sedmička]**
@@ -23,11 +25,15 @@
 - **NoD**
 - **Groove Bar** - trendy
 - **Moon Club** - trendy 
-- **Dva Kohouti** - brewery 
 - **Valhalla Beer Club**
 - **Parlour** - cocktails 
-- **Bar Pilotu** - cocktails (best Bloody Mary in the city)
 - **Monkey Bar** - really cute bar with a fabulous little garden 
-- **Bar Bohuzel** - punk/metal bar 
 - **Bullerbyn** - comfy/homely bar/cafe
 - ~~**Electric Sheep Book Bar**~~
+## Beer
+- **Dva Kohouti** - brewery
+- **Strahov Monastery Brewery** - beer
+- **Naplavka** - riverside with bars and bars on boats - go here for sunset or when the weather is nice
+- **OSSEGG** - beer/brewery
+- **Bar Bohuzel** - punk/metal bar
+- **Beer Geek**
