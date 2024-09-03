@@ -12,7 +12,6 @@
 - **Burza #4** - outside bar
 - **Poco** - chill hip bar
 - **Ankali** - Berlin style club (dark and moody)
-- **Stalin** - area in Letna park that usually has things going on during Friday/Saturday nights
 - **Ferme**
 - **Cafe Kamzik**
 - **Miminoo** - place to drink/eat under Zizkov tower
@@ -20,7 +19,6 @@
 - **Prosekarna Vinohradska**
 - **Winebar 0,75 [Sedmička]**
 - **Manesova Bar and Books** - cocktails
-- **Scout Institute** - hidden local bar next to Old Town Square. Go up the stairs one floor
 - **Boudoir Bar** - gay/hipster bar w/ mixed crowd
 - **NoD**
 - **Groove Bar** - trendy
@@ -37,3 +35,5 @@
 - **OSSEGG** - beer/brewery
 - **Bar Bohuzel** - punk/metal bar
 - **Beer Geek**
+- **Scout Institute** - hidden local bar next to Old Town Square. Go up the stairs one floor
+- **Stalin** - area in Letna park that usually has things going on during Friday/Saturday nights
