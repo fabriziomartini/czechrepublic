@@ -6,10 +6,12 @@
 - **Bonvivant's CTC** - cocktail bar
 - **Tretter’s Obecní dům** - cocktail bar
 - **Bar Pilotu** - cocktails (best Bloody Mary in the city)
+- **Fizz** - cocktail music bar
+- **Back Doors** - cocktails bar
+- **Forbína** - cocktails  bar
 -  **Ellise** - cocktail bar 
 - **La Cave D’Adrien** - wine bar on a roundabout — this roundabout is my favorite area in Prague when the weather is nice. It looks/feels like France.
 - ~~**Kasarna Karlin** - outdoor area and great place to drink in the afternoon. Sometimes has events.~~
-- **Burza #4** - outside bar
 - **Poco** - chill hip bar
 - **Ankali** - Berlin style club (dark and moody)
 - **Ferme**
@@ -37,3 +39,4 @@
 - **Beer Geek**
 - **Scout Institute** - hidden local bar next to Old Town Square. Go up the stairs one floor
 - **Stalin** - area in Letna park that usually has things going on during Friday/Saturday nights
+- **Burza #4** - outside bar
