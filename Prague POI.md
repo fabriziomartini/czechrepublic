@@ -63,19 +63,26 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Kin & K Bakery** - coffee + pastries (vegan options too)
 
 ## Italian
-- **La Botegga Linka/Bistroteka** - Italian, also good eggs Benedict for breakfast
+- **La Bottega Linka/Bistroteka** - Italian, also good eggs Benedict for breakfast
 - **The Italians Wine Food**
 - **San Carlo Dittrichova** - pizza
 
 ## Czech
 - **Lokal** - Czech restaurant chain — reliable with great Pilsner
 - **Restaurant Tiskarna** - Czech
+- **U Marianskeho Obrazu** - Czech
+- **Parlament** - Czech
+- **Brevnovsky klaster** - krcma and brewery
+- **U Sadu** - Czech
 
 ## Balkan
 - **Luka Lu** - Balkan food
+- **Mon Ami** - Balkan food and friendly place
+- **Jelica** - Balkan food
 
 ## Burgers
 - **Bulka Burger Bar**
+- **Zelva** 
 
 ## Chicken
 - **Kro Kitchen** - chicken
@@ -104,27 +111,10 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Vnitroblock** - coffee
 
 ## Miscellaneous
-- **Spojka Karlin** - European food? Idk
+- **Spojka Karlin**
 - **Cafe Savoy** - good breakfast/decent dinner
 - **Miska Ramen**
 
-
-
-- **Fifty-Fifty** - thrift store
-- **Fashion Shop Parazit** - hipster/interesting clothing store
-- **Artiseme** - houseware/decorations
-- ~~**Kulmal Hilda** - women’s thrift store~~
-- **Pour Pour** - women’s clothing
-- **NILAstore** - interior decor and women’s clothes
-- **Harddecore** - unique concept store
-- **Leeda** - women’s clothing
-- **SmetanaQ Showroom** - local designer’s clothing/jewelry
-- **Kvartyr** - clothing
-- **Book Therapy** - specialty bookstore
-- **Xao** - illustrated books
-- **Ingredients** - unique/luxury fragrance shop
-- **Pop Up Stories** - home goods/women’s clothing
-- **ONES Concept Store** - home goods
 # Places to Get a Drink in Prague
 
 ## Cocktails & Wine
@@ -173,7 +163,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Fifty-Fifty** - thrift store
 - **Fashion Shop Parazit** - hipster/interesting clothing store
 - **Artiseme** - houseware/decorations
-- ~~**Kulmal Hilda** - women’s thrift store~~
+- ~~**Kulmal Hilda** - women’s thrift store~~ *closed on 06.09.2024*
 - **Pour Pour** - women’s clothing
 - **NILAstore** - interior decor and women’s clothes
 - **Harddecore** - unique concept store
