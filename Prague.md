@@ -159,7 +159,6 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Stalin** - area in Letna park that usually has things going on during Friday/Saturday nights
 - **Burza #4** - outside bar 
 # Places to Shop in Prague
-
 - **Fifty-Fifty** - thrift store
 - **Fashion Shop Parazit** - hipster/interesting clothing store
 - **Artiseme** - houseware/decorations
