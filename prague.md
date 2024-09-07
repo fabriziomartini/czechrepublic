@@ -120,6 +120,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 ## Cocktails & Wine
 - **Alcron Bar Prague** - cocktail bar
 - **LFleurBar** - cocktail bar
+- **Banker’s Bar** - cocktail bar
 - **Mez Bar Prague** - cocktail bar
 - **Bonvivant's CTC** - cocktail bar
 - **Tretter’s Obecní dům** - cocktail bar
@@ -127,19 +128,23 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Fizz** - cocktail music bar
 - **Back Doors** - cocktails bar
 - **Forbína** - cocktails  bar
--  **Ellise** - cocktail bar 
-- **La Cave D’Adrien** - wine bar on a roundabout — this roundabout is my favorite area in Prague when the weather is nice. It looks/feels like France.
-- ~~**Kasarna Karlin** - outdoor area and great place to drink in the afternoon. Sometimes has events.~~
+- **Ellise** - cocktails bar 
+- ~~**Kasarna Karlin** - outdoor area. Sometimes has events.~~
 - **Poco** - chill hip bar
-- **Ankali** - Berlin style club (dark and moody)
+- **Ankali** - Berlin style club
 - **Ferme**
 - **Cafe Kamzik**
 - **Miminoo** - place to drink/eat under Zizkov tower
+- **Savage** - cocktail bar
+- **Bar Cobra** - cocktail bar
+- **Bar Monk** - cocktail bar
+- **The Artisan Bar** - cocktail bar
+- **Black Angels** - cocktail bar
 - **Champagneria**
 - **Prosekarna Vinohradska**
 - **Winebar 0,75 [Sedmička]**
-- **Manesova Bar and Books** - cocktails
-- **Boudoir Bar** - gay/hipster bar w/ mixed crowd
+- **Týnská Bar and Books** - cocktails
+- **Boudoir Bar**
 - **NoD**
 - **Groove Bar** - trendy
 - **Moon Club** - trendy 
