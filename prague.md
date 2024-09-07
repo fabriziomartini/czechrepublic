@@ -120,10 +120,16 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Le Degustation** - Michelin starred $$
 
 ## Breakfast/Brunch
+- **Spižírna 1902** - great brunch
+- **coffee corner bakery** - brunch and coffee
 - **Kavarna co hleda jmeno** - breakfast/brunch
 - **Venue** - brunch
 - **Etapa** - vegetarian brunch
 - **Liberske lahudky** - Good for chlebicky
+- **Marthy's Kitchen** 
+- **Cafefin**
+- **Creperie Mirakulum** - pancakes
+- **Mezi Srnky**
 
 ## Bakery & Desserts
 - **Dolcemente** - best and Italian pastry shop. Amazing aperitivo selection
@@ -208,6 +214,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Prague Central Camp** - Pražačka
 - **Kafárna Na Kus řeči** - nice garden, beer and food
 - **Naplavka** - riverside with bars and bars on boats - go here for sunset or when the weather is nice
+- **Skautský institut v Rybárně** - located in Kampa. Very cheap.
 
 # Places to Shop in Prague
 - **Fifty-Fifty** - thrift store
