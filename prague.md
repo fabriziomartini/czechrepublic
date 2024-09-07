@@ -131,21 +131,20 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Cafe Kamzik**
 - **Miminoo** - place to drink/eat under Zizkov tower
 - **Savage** - cocktail bar
-- **Bar Cobra** - cocktail bar
+- **Cobra** - cocktail bar
 - **Bar Monk** - cocktail bar
-- **The Artisan Bar** - cocktail bar
+- **The Artisan** - cocktail bar
 - **Black Angels** - cocktail bar
 - **Champagneria**
 - **Prosekarna Vinohradska**
 - **Winebar 0,75 [Sedmička]**
 - **Týnská Bar and Books** - cocktails
-- **Boudoir Bar**
+- **Boudoir - U Sta rán**
 - **NoD**
 - **Groove Bar** - trendy
-- **Moon Club** - trendy 
-- **Valhalla Beer Club**
+- **Moonclub** - trendy 
 - **Parlour** - cocktails 
-- **Monkey Bar** - really cute bar with a fabulous little garden 
+- **Monkey Bar** - nice bar with a little garden 
 - **Bullerbyn** - comfy/homely bar/cafe
 - ~~**Electric Sheep Book Bar**~~
 ## Beer
@@ -158,6 +157,8 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Scout Institute** - hidden local bar next to Old Town Square. Go up the stairs one floor
 - **Stalin** - area in Letna park that usually has things going on during Friday/Saturday nights
 - **Burza #4** - outside bar 
+- **Bad Flash Bar** 
+
 # Places to Shop in Prague
 - **Fifty-Fifty** - thrift store
 - **Fashion Shop Parazit** - hipster/interesting clothing store
