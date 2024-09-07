@@ -15,44 +15,86 @@ This repository offers a curated guide to some of the best places to visit, eat,
 
 # Places to Eat in Prague
 
-## Ice Cream
-- **Cukrar Skala** - best pistachio ice cream
-- **Crème de la Crème** - best every other flavor of ice cream. Go to the Vinohrady location to avoid lines.
-
-## Traditional Food
+## Czech (Traditional)
 - **U Kroka** - good traditional food
+- **Restaurace U Jindřišské věže** 
+- **U Marianskeho Obrazu** - Czech
+- **Vinohradský Parlament** - Czech
+- **Klášterní šenk** - krcma and brewery
+- **U Sadu** - Czech
+- **Hostinec Na Slamníku**
+- **Restaurace Tiskarna** - Czech
+- **Restaurace U Slámů**
+- **Restaurant U Kašpara**
+- **Hospůdka U Krbu**
+- **Lokal** - Czech restaurant chain — reliable with great Pilsner
+- **Jídelna Světozor** - classic and cheap
+- **Starý Pán** - classic Czech
+- **Restaurace Mincovna**
+- **Krčma** - located in Kostečná
+- **Restaurace U voraře** - typical Czech
 
-## Tapas
-- **El Camino Tapas Restaurant**
+## Italian
+- **La Bottega Linka/Bistroteka** - Italian, also good eggs Benedict for breakfast
+- **The Italians Wine Food**
+- **San Carlo** - pizza. All branches.
+- **Pizzeria Da Pietro** - pizza
+- **Sapori** -- Italian food and good wine. Nice staff.
+- **Ristorante-Pizzeria Al Tagliere** - good pizza
+- **Ristorantino da Matteo** - fine dining
 
-## Breakfast/Brunch
-- **Kavarna co hleda jmeno** - breakfast/brunch
-- **Venue** - brunch
-- **Etapa** - vegetarian brunch
+## Aperitivo
+- **Bistro Špejle**
+- **Dolcemente Vinohrady** 
+
+## Balkan
+- **Luka Lu** - Balkan food
+- **Mon Ami** - Balkan food and friendly place
+- **Jelica** - Balkan food
 
 ## Asian Fusion
+- **Chilli & Lime Vinohrady** - very good
 - **Sia** - Asian fusion (beautiful interior)
+- **Miska Ramen** - Japanese
+- **Takumi** - Japanese
+- **Kung Fu Pure Chinese Pasta** - Chinese dumplings
+- **Chi Xiao Mian** - Chinese
+- **neami** - Asian fusion
+- **Miss You - Asian Cuisine** 
+- **Shrimii Kitchen** - Asian fusion
+- **BON Fresh** - all branches
+- **Matzip** - Korean
 
-## Bakery
-- **Le Caveau Pekarna** - bakery w/ amazing baguettes
-- **Oh Deer Bakery**
-- **Artic Bakehouse**
-- **Eska Restaurant and Bakery**
+## Mexican
+- **Sabroso**
+- **Little Mexico**
+- **Agave Restaurant**
 
-## Sandwiches
-- **Zona Bistro** - sandwiches
+## Indian
+- **Masala**
+- **Sangam Indian Restaurant Prague**
 
-## Fine Dining
-- **Benjamin** - fine dining
-- **Field** - Michelin starred $$$$
-- **Le Degustation** - Michelin starred $$
+## Greek
+- **Soul kitchen**
+- **FILEMA Greek Cuisine**
+- **Olympos Bistro**
 
-## Meat
+## Belgian
+- **Bruxx** - Belgian
+
+## Meat & Burgers
+- **Bulka Burger Bar** - burgers
+- **Zelva** - burgers
+- **FATFUCK** - smash burgers
+- **Gran Fierro** - Argentinian restaurant. Great meat and fine dining.
+- **Meatery** - good meat
+- **Stejkárna** - all branches. Good meat and burgers.
 - **Kantyna** - meat
-- **Real Meat Society** - Burgers
-- **Hillbilly** - Burgers
+- **Real Meat Society** - burgers
+- **Hillbilly** - burgers
 - **Big Smokers** - bbq
 - **Kohoutek** - grilled chicken
+- **Kro Karlin** - chicken
 
 ## Vegan/Vegetarian
 - **Eaternia** - hipster vegan — food is hit or miss, but I like the hipster/punk crowd
@@ -60,52 +102,45 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Shromazdiste** - vegan
 - **Kin & K Bakery** - coffee + pastries (vegan options too)
 
-## Italian
-- **La Bottega Linka/Bistroteka** - Italian, also good eggs Benedict for breakfast
-- **The Italians Wine Food**
-- **San Carlo Dittrichova** - pizza
-
-## Czech
-- **Lokal** - Czech restaurant chain — reliable with great Pilsner
-- **Restaurace Tiskarna** - Czech
-- **U Marianskeho Obrazu** - Czech
-- **Vinohradský Parlament** - Czech
-- **Klášterní šenk** - krcma and brewery
-- **U Sadu** - Czech
-
-## Balkan
-- **Luka Lu** - Balkan food
-- **Mon Ami** - Balkan food and friendly place
-- **Jelica** - Balkan food
-
-## Burgers
-- **Bulka Burger Bar**
-- **Zelva** 
-
-## Chicken
-- **Kro Karlin** - chicken
-
-## Belgian
-- **Bruxx** - Belgian
-
-## Chinese
-- **Kung Fu Pure Chinese Pasta** - dumplings
-- **Chi Xiao Mian** - Chinese
-
-## Hot Dogs
-- **Mr HoTDoG**
-
-## Kebab
-- **Gemuse Corner Kebab**
-
 ## Miscellaneous
-- **Spojka Karlin**
-- **Cafe Savoy** - good breakfast/decent dinner
-- **Miska Ramen**
+- **El Camino Tapas Restaurant** - tapas
+- **Arepas De Lyna** - Venezuelan restaurant
+- **Pomegranate** - Armenian
+- **Sochi** - Georgian
+- **Zona Bistro** - sandwiches
+- **Gemuse Corner Kebab** - all branches
+- **Mr HoTDoG** - hot dogs
+
+## Fine Dining
+- **Spojka Karlin** - nice venue $$
+- **Benjamin** - fine dining
+- **Field** - Michelin starred $$$$
+- **Le Degustation** - Michelin starred $$
+
+## Breakfast/Brunch
+- **Kavarna co hleda jmeno** - breakfast/brunch
+- **Venue** - brunch
+- **Etapa** - vegetarian brunch
+- **Liberske lahudky** - Good for Chlebicky, the Czech open-faced sandwiches with various toppings
+
+## Bakery & Desserts
+- **Dolcemente** - best and Italian pastry shop. Amazing aperitivo selection
+- **Arte Bianca** - Italian bakery and pastry shop
+- **Dolce Carosello** - good desserts
+- **Le Caveau Pekarna** - bakery w/ amazing baguettes
+- **Oh Deer Bakery**
+- **Artic Bakehouse**
+- **Eska Restaurant and Bakery**
+- **Antoninovo pekarstvi**
+
+## Ice Cream
+- **Cukrar Skala** - best pistachio ice cream
+- **Crème de la Crème** - all branches
 
 # Places to Get a Drink in Prague
 
 ## Coffee
+- ***Cafe Savoy**
 - **Mazelab.coffee**
 - **25,2 rpm** - coffee
 - **Typhoon Coffee**
@@ -147,6 +182,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Monkey Bar** - nice bar with a little garden 
 - **Bullerbyn** - comfy/homely bar/cafe
 - ~~**Electric Sheep Book Bar**~~
+
 ## Beer
 - **Dva Kohouti** - brewery
 - **Strahov Monastery Brewery** - beer
@@ -158,6 +194,8 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Stalin** - area in Letna park that usually has things going on during Friday/Saturday nights
 - **Burza #4** - outside bar 
 - **Bad Flash Bar** 
+- **Restaurace Na Křižovatce**
+- **Plzeňka Olše**
 
 # Places to Shop in Prague
 - **Fifty-Fifty** - thrift store
