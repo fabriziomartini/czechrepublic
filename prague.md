@@ -11,6 +11,8 @@
 # Description
 This repository offers a curated guide to some of the best places to visit, eat, drink, and shop in the Czech Republic, with a special focus on Prague. It also includes recommended day trips, traditional Czech food specialties, and more. Whether you're planning a trip or just exploring virtually, this guide will help you discover top spots across the country.
 
+<iframe src="https://www.google.com/maps/d/embed?mid=1mv44yDHeCFiR0Uq2PHVLXM8hh6s99RU&ehbc=2E312F" width="640" height="480"></iframe>
+
 # Places to Eat in Prague
 
 ## Ice Cream
@@ -37,9 +39,6 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Artic Bakehouse**
 - **Eska Restaurant and Bakery**
 
-## French
-- **Mirabelle** - French grocer to buy wine and cheese to go with your baguettes
-
 ## Sandwiches
 - **Zona Bistro** - sandwiches
 
@@ -56,7 +55,6 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Kohoutek** - grilled chicken
 
 ## Vegan/Vegetarian
-- **Blue Vegan Pig Shop** - vegan donuts
 - **Eaternia** - hipster vegan — food is hit or miss, but I like the hipster/punk crowd
 - **Satsang** - vegetarian
 - **Shromazdiste** - vegan
@@ -69,10 +67,10 @@ This repository offers a curated guide to some of the best places to visit, eat,
 
 ## Czech
 - **Lokal** - Czech restaurant chain — reliable with great Pilsner
-- **Restaurant Tiskarna** - Czech
+- **Restaurace Tiskarna** - Czech
 - **U Marianskeho Obrazu** - Czech
-- **Parlament** - Czech
-- **Brevnovsky klaster** - krcma and brewery
+- **Vinohradský Parlament** - Czech
+- **Klášterní šenk** - krcma and brewery
 - **U Sadu** - Czech
 
 ## Balkan
@@ -85,17 +83,14 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Zelva** 
 
 ## Chicken
-- **Kro Kitchen** - chicken
+- **Kro Karlin** - chicken
 
 ## Belgian
 - **Bruxx** - Belgian
 
-## Lebanese
-- **Layla** - Lebanese
-
 ## Chinese
 - **Kung Fu Pure Chinese Pasta** - dumplings
-- **Chuan Wang Fu** - Chinese
+- **Chi Xiao Mian** - Chinese
 
 ## Hot Dogs
 - **Mr HoTDoG**
@@ -103,19 +98,19 @@ This repository offers a curated guide to some of the best places to visit, eat,
 ## Kebab
 - **Gemuse Corner Kebab**
 
-## Coffee
-- **Mazelab.coffee**
-- **25,2 rpm** - coffee
-- **Typhoon Coffee**
-- **Format Coffee**
-- **Vnitroblock** - coffee
-
 ## Miscellaneous
 - **Spojka Karlin**
 - **Cafe Savoy** - good breakfast/decent dinner
 - **Miska Ramen**
 
 # Places to Get a Drink in Prague
+
+## Coffee
+- **Mazelab.coffee**
+- **25,2 rpm** - coffee
+- **Typhoon Coffee**
+- **Format Coffee**
+- **Vnitroblock** - coffee
 
 ## Cocktails & Wine
 - **Alcron Bar Prague** - cocktail bar
