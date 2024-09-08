@@ -52,7 +52,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 
 ## Balkan
 - **Luka Lu** - Balkan food
-- **Mon Ami** - Balkan food and friendly place
+- **Mon Ami** - Balkan food and friendly place. Quiet garden. 
 - **Jelica** - Balkan food
 
 ## Asian Fusion
