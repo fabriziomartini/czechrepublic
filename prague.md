@@ -41,6 +41,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **The Italians Wine Food**
 - **San Carlo** - pizza. All branches.
 - **Pizzeria Da Pietro** - pizza
+- **SASY The Original**
 - **Sapori** -- Italian food and good wine. Nice staff.
 - **Ristorante-Pizzeria Al Tagliere** - good pizza
 - **Ristorantino da Matteo** - fine dining
@@ -132,7 +133,8 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Mezi Srnky**
 
 ## Bakery & Desserts
-- **Dolcemente** - best and Italian pastry shop. Amazing aperitivo selection
+- **Il Pane - Italská pekárna** - Italian bakery specializing in Tuscan delicacies
+- **Dolcemente** - Italian Pastry Shop: Best desserts in town. Amazing aperitivo offer
 - **Arte Bianca** - Italian bakery and pastry shop
 - **Dolce Carosello** - good desserts
 - **Le Caveau Pekarna** - bakery w/ amazing baguettes
