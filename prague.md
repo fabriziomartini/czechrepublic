@@ -158,6 +158,17 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Vnitroblock** - coffee
 
 ## Cocktails & Wine
+- **Champagneria** - wine & champagne
+- **Prosekarna Vinohradska** - wine bar
+- **Winebar 0,75 [Sedmička]** - wine bar
+- **Přátelé Wine Friends** - wine bar
+- **Voglia D’osmica** - wine bar
+- **Moje první Vinotéka** - wine bar
+- **Assaggio Vineria** - wine bar
+- **Šenkovna Fine Wine Pub** - wine bar
+- **Prosekárna Petrské Náměstí** - wine bar
+- **Vinárna Bokovka** - wine bar $$$
+- **Prosecco SPOT** - wine bar
 - **Alcron Bar Prague** - cocktail bar
 - **LFleurBar** - cocktail bar
 - **Banker’s Bar** - cocktail bar
@@ -180,9 +191,6 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Bar Monk** - cocktail bar
 - **The Artisan** - cocktail bar
 - **Black Angels** - cocktail bar
-- **Champagneria**
-- **Prosekarna Vinohradska**
-- **Winebar 0,75 [Sedmička]**
 - **Týnská Bar and Books** - cocktails
 - **Boudoir - U Sta rán**
 - **NoD**
