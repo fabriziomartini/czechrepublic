@@ -119,6 +119,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Benjamin** - fine dining
 - **Field** - Michelin starred $$$$
 - **Le Degustation** - Michelin starred $$
+- **SenSa Fine Food Restaurant** - Nikkei restaurant, Japanese-Brazilian concept 
 
 ## Breakfast/Brunch
 - **Spižírna 1902** - great brunch
