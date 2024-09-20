@@ -244,6 +244,15 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Pop Up Stories** - home goods/women’s clothing
 - **ONES Concept Store** - home goods
 
+# Groceries
+## Meat
+- *Sultan food*
+- *Presto meat-market*
+- *TRMS*
+- *Terrys steak*
+- *Anatolia Food Market* 
+
+
 # Sites to Visit in Prague
 - **👁 = nice view and great for sunsets**
 - **Prague 1/Old Town Square** - historic part of Prague. Just get lost walking around. Food and drink are overpriced.
