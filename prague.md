@@ -119,6 +119,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Benjamin** - fine dining
 - **Field** - Michelin starred $$$$
 - **Le Degustation** - Michelin starred $$
+- **SenSa Fine Food Restaurant** - Nikkei restaurant, Japanese-Brazilian concept 
 
 ## Breakfast/Brunch
 - **Spižírna 1902** - great brunch
@@ -243,9 +244,18 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Pop Up Stories** - home goods/women’s clothing
 - **ONES Concept Store** - home goods
 
+# Groceries
+## Meat
+- *Sultan food*
+- *Presto meat-market*
+- *TRMS*
+- *Terrys steak*
+- *Anatolia Food Market* 
+
+
 # Sites to Visit in Prague
 - **👁 = nice view and great for sunsets**
-- **Prague 1/Old Town Square** - historic part of Prague. Just get lost walking around. Food and drink are overpriced.
+- **Prague 1/Old Town Square** - historic part of Prague. Just get lost walking around. Food and drinks are overpriced.
 - **Letna** - old houses and embassies plus beer garden overlooking the river.
 - **Riegrovy Sady** - park overlooking the city + beer garden in the middle 👁
 - **Wenceslas Square**
