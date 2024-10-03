@@ -52,7 +52,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Sapori** -- Italian food and good wine. Nice staff.
 - **Ristorante-Pizzeria Al Tagliere** - good pizza
 - **Ristorantino da Matteo** - fine dining
-- **Amano**
+- Amano
 - Dejvicka 34
 - Di Nuovo
 - Farina
