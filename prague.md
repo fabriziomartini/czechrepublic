@@ -120,8 +120,8 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Field** - Michelin starred $$$$
 - **Le Degustation** - Michelin starred $$
 - **SenSa Fine Food Restaurant** - Nikkei restaurant, Japanese-Brazilian concept
-- **Augustine Restaurant** - fine dining
-- **Belcredi Bistro & Bar** - fine dining
+- Augustine Restaurant - fine dining
+- Belcredi Bistro & Bar - fine dining
 
 ## Breakfast/Brunch
 - **Spižírna 1902** - great brunch
