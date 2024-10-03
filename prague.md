@@ -35,9 +35,16 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Restaurace Mincovna**
 - **Krčma** - located in Kostečná
 - **Restaurace U voraře** - typical Czech
+- Apelace 21 - Czech
+- Artisan - Czech
+- Meat Beer - Czech
+- The Twisted Fig - Czech
+- V Zahradě - Czech
+- Waldeska - Czech
+- ZEM Prague - Czech
 
 ## Italian
-- **La Bottega Linka/Bistroteka** - Italian, also good eggs Benedict for breakfast
+- **La Bottega Linka/Bistroteka/** di Finestra - Italian, also good eggs Benedict for breakfast
 - **The Italians Wine Food**
 - **San Carlo** - pizza. All branches.
 - **Pizzeria Da Pietro** - pizza
@@ -45,6 +52,10 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Sapori** -- Italian food and good wine. Nice staff.
 - **Ristorante-Pizzeria Al Tagliere** - good pizza
 - **Ristorantino da Matteo** - fine dining
+- **Amano**
+- Dejvicka 34
+- Di Nuovo
+- Farina
 
 ## Aperitivo
 - **Bistro Špejle**
@@ -60,6 +71,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Sia** - Asian fusion (beautiful interior)
 - **Miska Ramen** - Japanese
 - **Takumi** - Japanese
+- Bisutoro - Japanese
 - **Kung Fu Pure Chinese Pasta** - Chinese dumplings
 - **Chi Xiao Mian** - Chinese
 - **neami** - Asian fusion
@@ -67,6 +79,18 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Shrimii Kitchen** - Asian fusion
 - **BON Fresh** - all branches
 - **Matzip** - Korean
+- Dim Sum Spot Letna - Asian
+- Dim Sum Spot & Pub Anděl - Asian
+- Dock House - American
+- Hong Kong Karlin - Asian
+- Imperial Sushi Stodůlky - Asian
+- Imperial Sushi Žižkov - Asian
+- Jam and Co. - Asian
+- Nhà hai hành - Vietnamese
+- PRU58 Asian Kitchen & Bar by Štěpán Návrat - Asian
+- Rice Field - Vietnamese
+- Sogoo Restaurant - Asian
+- Teplá Kačka - Asian
 
 ## Mexican
 - **Sabroso**
@@ -76,6 +100,8 @@ This repository offers a curated guide to some of the best places to visit, eat,
 ## Indian
 - **Masala**
 - **Sangam Indian Restaurant Prague**
+- Indian Amaze
+- Indian by Nature I
 
 ## Greek
 - **Soul kitchen**
@@ -90,6 +116,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Zelva** - burgers
 - **FATFUCK** - smash burgers
 - **Gran Fierro** - Argentinian restaurant. Great meat and fine dining.
+- Cruz Rotiseria - Argentinian
 - **Meatery** - good meat
 - **Stejkárna** - all branches. Good meat and burgers.
 - **Kantyna** - meat
@@ -110,9 +137,24 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Arepas De Lyna** - Venezuelan restaurant
 - **Pomegranate** - Armenian
 - **Sochi** - Georgian
+- Samefo - Gruzínská Restaurace - Georgian
+- Vazi Restaurant - Georgian
 - **Zona Bistro** - sandwiches
 - **Gemuse Corner Kebab** - all branches
 - **Mr HoTDoG** - hot dogs
+- Atelier Red & Wine Restaurant - French
+- Brick's - Mediterrenean
+- Danu Restaurant & Wine Cellar - European
+- Dark Kitchen - International
+- Fly Vista - International
+- Jaffa I - Middle Eastern
+- Jaffa II - Middle Eastern
+- Meza Cruz - Fusion
+- River´s smokelab - American
+- Soloha Bistro - Ukrainian
+- Tapárna - Spanish
+- Wood & Steak - American
+- Zinc Bar & Restaurant - International
 
 ## Fine Dining
 - **Spojka Karlin** - nice venue $$
@@ -145,6 +187,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Artic Bakehouse**
 - **Eska Restaurant and Bakery**
 - **Antoninovo pekarstvi**
+- Cruz Panadería
 
 ## Ice Cream
 - **Cukrar Skala** - best pistachio ice cream
