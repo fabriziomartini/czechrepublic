@@ -4,6 +4,7 @@
 - [Places to Eat in Prague](#places-to-eat-in-prague)
 - [Places to Get a Drink in Prague](#places-to-get-a-drink-in-prague)
 - [Places to Shop in Prague](#places-to-shop-in-prague)
+- [Groceries](#groceries)
 - [Sites to Visit in Prague](#sites-to-visit-in-prague)
 - [Day Trips & Additional Places](#day-trips--additional-places)
 - [Traditional Czech Food Specialties](#traditional-czech-food-specialties)
@@ -44,12 +45,12 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - ZEM Prague - Czech
 
 ## Italian
-- **La Bottega Linka/Bistroteka/** An upscale Italian bistro and bakery perfect for a gourmet breakfast or a fine-dining dinner.
+- **La Bottega Linka/Bistroteka** - An upscale Italian bistro and bakery perfect for a gourmet breakfast or a fine-dining dinner.
 - **The Italians Wine Food**
 - **San Carlo** - Widely considered the best Neapolitan pizza in Prague, with multiple locations across the city.
 - **Pizzeria Da Pietro** - Authentic sourdough pizza with high-quality ingredients imported directly from Italy.
 - **SASY The Original**
-- **Sapori** -- Italian food and good wine. Nice staff.
+- **Sapori** - Italian food and good wine. Nice staff.
 - **Ristorante-Pizzeria Al Tagliere** - good pizza
 - **Ristorantino da Matteo** - fine dining
 - Amano
@@ -59,7 +60,6 @@ This repository offers a curated guide to some of the best places to visit, eat,
 
 ## Aperitivo
 - **Bistro Špejle**
-- **Dolcemente Vinohrady** 
 
 ## Balkan
 - **Luka Lu** - Balkan food
@@ -116,7 +116,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Zelva** - burgers
 - **FATFUCK** - smash burgers
 - **Gran Fierro** - Argentinian restaurant. Great meat and fine dining.
-- Cruz Rotiseria - Argentinian
+- **Cafe Cruz** - Argentinian (formerly Cruz Rotiseria/Cruz Panadería, now merged into one location)
 - **Meatery** - good meat
 - **Stejkárna** - all branches. Good meat and burgers.
 - **Kantyna** - meat
@@ -140,7 +140,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - Samefo - Gruzínská Restaurace - Georgian
 - Vazi Restaurant - Georgian
 - **Zona Bistro** - sandwiches
-- **Gemuse Corner Kebab** - all branches
+- **Gemüse Corner Kebab** - all branches
 - **Mr HoTDoG** - hot dogs
 - Atelier Red & Wine Restaurant - French
 - Brick's - Mediterrenean
@@ -150,7 +150,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - Jaffa I - Middle Eastern
 - Jaffa II - Middle Eastern
 - Meza Cruz - Fusion
-- River´s smokelab - American
+- River's smokelab - American
 - Soloha Bistro - Ukrainian
 - Tapárna - Spanish
 - Wood & Steak - American
@@ -179,7 +179,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 
 ## Bakery & Desserts
 - **Il Pane - Italská pekárna** - Italian bakery specializing in Tuscan delicacies
-- **Dolcemente** - Italian Pastry Shop: Best desserts in town. Amazing aperitivo offer
+- **Dolcemente Vinohrady** - Italian Pastry Shop: Best desserts in town. Amazing aperitivo offer
 - **Arte Bianca** - Italian bakery and pastry shop
 - **Dolce Carosello** - good desserts
 - **Le Caveau Pekarna** - bakery w/ amazing baguettes
@@ -187,7 +187,6 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Artic Bakehouse**
 - **Eska Restaurant and Bakery**
 - **Antoninovo pekarstvi**
-- Cruz Panadería
 
 ## Ice Cream
 - **Cukrar Skala** - best pistachio ice cream
@@ -196,12 +195,24 @@ This repository offers a curated guide to some of the best places to visit, eat,
 # 🍺Places to Get a Drink in Prague
 
 ## Coffee
-- ***Cafe Savoy**
+- **Cafe Savoy**
 - **Mazelab.coffee**
 - **25,2 rpm** - coffee
 - **Typhoon Coffee**
 - **Format Coffee**
 - **Vnitroblock** - coffee
+- **Blumery** - Vinohrady; former post office turned laptop-friendly cafe, brunch and pastries
+- **Typika (Karlín)** - flat whites and filter from their own roastery, hidden courtyard
+- **Acid Coffee** - Letná; laptop friendly, hosts local vendor/DJ events
+- **Café Živé Kytky** - Žižkov; coffee and plants, kid friendly
+- **Go Francin** - Smíchov; breakfast and coffee from Francin roastery
+- **Riders Coffee** - Karlín; riverside cafe, good stop for cyclists
+- **TISSE Bakery** - Vinohrady; laptop-friendly, great croissants and rotating brunch
+- **Cukrárna Myšák** - Nové Město; classic Czech pastries like věneček and větrník
+- **Můj šálek kávy** - Karlín; one of the OG Prague roasteries, reliable brunch
+- **onesip coffee** - Old Town; small space, some of the best coffee in the center
+- **Supernova Bakehouse** - Holešovice; laminated pastries and filter coffee
+- **The Miners Coffee** - Old Town; near Charles Bridge, specialty coffee
 
 ## Cocktails & Wine
 - **Champagneria** - wine & champagne
@@ -226,7 +237,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Back Doors** - cocktails bar
 - **Forbína** - cocktails  bar
 - **Ellise** - cocktails bar 
-- ~~**Kasarna Karlin** - outdoor area. Sometimes has events.~~
+- ~~**Kasarna Karlin** - outdoor area. Sometimes has events.~~ *closed*
 - **Poco** - chill hip bar
 - **Ankali** - Berlin style club
 - **Ferme**
@@ -245,12 +256,12 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Parlour** - cocktails 
 - **Monkey Bar** - nice bar with a little garden 
 - **Bullerbyn** - comfy/homely bar/cafe
-- ~~**Electric Sheep Book Bar**~~
+- ~~**Electric Sheep Book Bar**~~ *closed*
 
 ## 🍺 Beer
 - **Dva Kohouti** - brewery
 - **Strahov Monastery Brewery** - beer
-- **OSSEGG** - beer/brewery
+- **Římská Pivovar a Restaurace** - beer/brewery (formerly OSSEGG)
 - **Bar Bohuzel** - punk/metal bar
 - **Beer Geek**
 - **Scout Institute** - hidden local bar next to Old Town Square. Go up the stairs one floor
@@ -260,7 +271,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Restaurace Na Křižovatce**
 - **Plzeňka Olše**
 - **Restaurace U Rokytky** - best Svijany in Prague
-- **NAPALMĚ, beer bar**
+- **NAPALMĚ** - beer bar
 - **Vzlet** - cultural center 
 - **KLUB Petrohradská** - cultural center
 
@@ -286,16 +297,14 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Book Therapy** - specialty bookstore
 - **Xao** - illustrated books
 - **Ingredients** - unique/luxury fragrance shop
-- **Pop Up Stories** - home goods/women’s clothing
 - **ONES Concept Store** - home goods
 
 # Groceries
 ## Meat
-- *Sultan food*
-- *Presto meat-market*
-- *TRMS*
-- *Terrys steak*
-- *Anatolia Food Market* 
+- **Sultan food**
+- **Presto meat-market**
+- **Terrys steak**
+- **Anatolia Meat Market**
 
 
 # Sites to Visit in Prague
@@ -314,9 +323,9 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Kampa** - weird baby statues
 - **Zizkov TV Tower** - go up for a drink 👁
 - **Dancing House**
-- **Vysehrad Park** 👁
+- **Vyšehrad Park** 👁
 - **Grebovka Park**
-- **Viktov Monument** - giant statue and nice views. I think the museum is all in Czech though. 👁
+- **Vítkov Monument** - giant statue and nice views. I think the museum is all in Czech though. 👁
 - **Vrtba Gardens**
 - **Prague Castle**
 - **Waldstein Garden**
@@ -325,7 +334,7 @@ This repository offers a curated guide to some of the best places to visit, eat,
 - **Lennon Wall** - an unimpressive graffiti wall that’s a tourist attraction for some reason.
 - **Petrin** - tower with nice park below it - take the funicular up to the top 👁
 - **Trojsky Zamek**
-- **Divorka Sarka** - hiking and trails
+- **Divoká Šárka** - hiking and trails
 - **Chemistry Gallery** - art gallery
 - **Hidden Gallery** - art gallery
 - **Bold Gallery** - art gallery
